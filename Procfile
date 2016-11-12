@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/employees-0.1.0.jar
+web: java -Dserver.port=$PORT -jar target/employees-app-1.0-SNAPSHOT-jar-with-dependencies.jar
